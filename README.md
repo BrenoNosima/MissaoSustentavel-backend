@@ -5,7 +5,7 @@
 - **Professor**: [Nome do Professor]
 - **Turma**: 4º Semestre - Engenharia de Software
 - **Integrantes**:
-  - [Nome do Aluno 1] (RA: XXXXX)
+  - Breno Bertaglia Nosima (RA: 24113673-2)
   - [Nome do Aluno 2] (RA: XXXXX)
   - [Nome do Aluno 3] (RA: XXXXX)
 
@@ -123,10 +123,6 @@ src/main/java/com/missaosustentavel/api/
 ## 📱 Prints do Sistema
 [Colocar aqui 3-4 prints do Postman mostrando as requisições funcionando]
 
-## ⭐ Contribuição de Cada Aluno
-- **[Aluno 1]**: Fez os controllers e serviços
-- **[Aluno 2]**: Fez os models e repositories
-- **[Aluno 3]**: Documentação e testes
 
 ## 📋 Melhorias Futuras
 - [ ] Fazer uma interface web bonita
