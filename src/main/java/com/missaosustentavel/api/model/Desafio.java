@@ -16,6 +16,7 @@ public class Desafio {
     private Integer pontos;
     private LocalDate prazoFinal;
     private boolean ativo = true;
+    private boolean fixo = false;  // Indica se o desafio é fixo (sempre disponível)
 
     public Long getId() {
         return id;
@@ -63,5 +64,13 @@ public class Desafio {
 
     public void setAtivo(boolean ativo) {
         this.ativo = ativo;
+    }
+
+    public boolean isFixo() {
+        return fixo;
+    }
+
+    public void setFixo(boolean fixo) {
+        this.fixo = fixo;
     }
 }

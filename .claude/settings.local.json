@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Read(//d/NCS/aprendendo_react/MissaoSustentavel/src/**)",
+      "Read(//d/NCS/aprendendo_react/MissaoSustentavel/src/views/**)",
+      "Read(//d/NCS/aprendendo_react/MissaoSustentavel/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

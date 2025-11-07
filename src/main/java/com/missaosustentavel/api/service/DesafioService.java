@@ -22,6 +22,14 @@ public class DesafioService {
         return desafioRepository.findAtivos();
     }
 
+    public List<Desafio> listarFixos() {
+        return desafioRepository.findFixos();
+    }
+
+    public List<Desafio> listarAtivosDaSemana() {
+        return desafioRepository.findAtivosDaSemana();
+    }
+
     public Optional<Desafio> findById(Long id) {
         return desafioRepository.findById(id);
     }
